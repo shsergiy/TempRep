@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
     double a,b;
     //Средние значения:
     double Sx=0,Sy=0,Sxy=0,Sxx=0;
-    //Ввод статистических данных:
+    //Ввод сттистических данных:
     cout << "x = ";
     for(i=0; i < n; i++)
      cin >> x[i];
